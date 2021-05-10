@@ -24,7 +24,7 @@ SECRET_KEY = 'fvx*ejpwg&vxsmk!za11lh#!tkjf!2(41x(wc6zwj(y=gc^!5='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['auction-game-backend-test.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = [".herokuapp.com", ".researchthroughdesign.org"]
 
 
 # Application definition
